@@ -186,6 +186,3 @@ metadataBase: new URL('https://your-domain.com'),
 
 ---
 
-## License
-
-This project is private. All rights reserved.
